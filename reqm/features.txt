@@ -1,0 +1,17 @@
+Read body measurements
+- height
+- weight
+- waist
+- chest
+- shoulder
+- neck
+- foot
+- hand
+- thigh
+- arm
+- top
+- bottom
+
+suggest size as per region
+
+suggest brand sizes
